@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Шины";
+$arDirProperties = Array(
+
+);
+?>

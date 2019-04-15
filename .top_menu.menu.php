@@ -1,0 +1,46 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Оплата и доставка", 
+		"/oplata-i-dostavka/index.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Гарантии", 
+		"/garantii/index.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"О компании", 
+		"/o-kompanii/index.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Новости", 
+		"/novosti/index.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Покупателю", 
+		"/pokupatelyu/index.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		"/kontakty/index.php", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

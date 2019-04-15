@@ -1,0 +1,33 @@
+<?
+$sMenuTemplate = "vertical-multilevel-menu";
+$aMenuLinks = Array(
+	Array(
+		"Шины", 
+		"/katalog/shiny/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Диски", 
+		"/katalog/diski/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Шиномонтаж", 
+		"/katalog/shinomontazh/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Автосервис", 
+		"/katalog/avtoservis/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
