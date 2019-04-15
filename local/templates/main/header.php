@@ -44,7 +44,7 @@ IncludeTemplateLangFile(__FILE__);
             Пожалуйста, <a href="http://browsehappy.com/" target="_blank" rel="nofollow">обновите</a> ваш браузер или включите поддержку JavaScript для корректного отображения страницы.
         </div>
     </noscript>
-
+<p>Я тут наговнокодил</p>
     <!-- Outdated browser warning -->
     <!--[if lte IE 10]>
         <div id="outdatedBrowserWarning">
